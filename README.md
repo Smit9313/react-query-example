@@ -70,3 +70,4 @@ https://resthooks.io/rest/guides/optimistic-updates
 https://www.sitepoint.com/react-query-fetch-manage-data
 
 https://tanstack.com/query/latest/docs/react/overview
+# react-query-example
